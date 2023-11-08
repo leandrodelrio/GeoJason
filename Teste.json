@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "MA": "Marica"
+      },
+      "geometry": {
+        "coordinates": [
+          -42.823166119611585,
+          -22.92104468292078
+        ],
+        "type": "Point"
+      },
+      "id": 0
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SG": "Sao Goncalo"
+      },
+      "geometry": {
+        "coordinates": [
+          -43.054557494196416,
+          -22.825379632861654
+        ],
+        "type": "Point"
+      },
+      "id": 1
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "RJ": "Rio de janeiro"
+      },
+      "geometry": {
+        "coordinates": [
+          -43.26518297619063,
+          -22.90874866718309
+        ],
+        "type": "Point"
+      },
+      "id": 2
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NT": "Niteroi"
+      },
+      "geometry": {
+        "coordinates": [
+          -43.11423864966977,
+          -22.883742297749066
+        ],
+        "type": "Point"
+      },
+      "id": 3
+    }
+  ],
+  "bbox": null
+}
